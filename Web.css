@@ -67,7 +67,7 @@ body {
   font-size: 17px;
   border-radius: 7px;
   top: 45px;
-  left: 52%;
+  right: 20px;
 }
 
 .profile::before {
